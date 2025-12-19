@@ -60,12 +60,3 @@ de identificar comportamientos distractores y potencialmente peligrosos del cond
 
 ---
 
-## 📦 Estructura del repositorio
-
-```text
-├── data/
-├── docs/
-├── models/
-├── notebooks/
-├── results/
-└── README.md
