@@ -1,1 +1,9 @@
+## 🧩 Bibliotecas utilizadas
 
+- TensorFlow / Keras
+- OpenCV
+- NumPy
+- scikit-learn
+- Ultralytics YOLOv8
+- Matplotlib
+- Pillow
