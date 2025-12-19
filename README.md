@@ -44,11 +44,15 @@ de identificar comportamientos distractores y potencialmente peligrosos del cond
 
 ## 📊 Resultados experimentales
 
-| Modelo | Precisión | Parámetros |
-|------|-----------|------------|
-| CNN Base | 97.1% | 18 MB |
-| CNN + Depth | 96.4% | 19 MB |
-| YOLOv8n | 98.2% | 6.2 M |
+| Modelo                                               | Base de datos     | Precisión  |
+| ---------------------------------------------------- | ----------------- | ---------- |
+| **CNN (This Research)**                              | State Farm D.D.D. | **98.10%** |
+| **CNN + Algoritmo de clasificación (This Research)** | State Farm D.D.D. | –          |
+| KNN                                                  | State Farm D.D.D. | 86.67%     |
+| Random Forest (RF)                                   | State Farm D.D.D. | 81.71%     |
+| **YOLOv8 (This Research)**                           | State Farm D.D.D. | 96.40%     |
+| **CNN + Depth Map (This Research)**                  | State Farm D.D.D. | **98.55%** |
+
 
 ---
 
