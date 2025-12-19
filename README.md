@@ -26,7 +26,7 @@ de identificar comportamientos distractores y potencialmente peligrosos del cond
 
 ## 🗂️ Conjuntos de datos utilizados
 
-- **StateFarm Distracted Driver Detection**
+- **StateFarm Distracted Driver Detection** (https://www.kaggle.com/c/state-FARM-distracted-driver-detection)
 - **Base de datos propia**, capturada en escenarios reales de conducción
 
 > ⚠️ Por motivos de privacidad, las imágenes originales no se distribuyen públicamente.
