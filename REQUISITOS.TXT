@@ -1,0 +1,42 @@
+# =========================
+# Núcleo numérico y datos
+# =========================
+numpy
+pandas
+scipy
+
+# =========================
+# Aprendizaje profundo (CNN)
+# =========================
+tensorflow==2.15.0
+keras
+
+# =========================
+# Algoritmos clásicos ML
+# =========================
+scikit-learn
+
+# =========================
+# Detección de objetos
+# =========================
+ultralytics
+
+# =========================
+# Visualización y análisis
+# =========================
+matplotlib
+seaborn
+
+# =========================
+# Utilidades
+# =========================
+pyyaml
+h5py
+tensorboard
+
+# =========================
+# Entorno experimental
+# =========================
+jupyter
+notebook
+Google coolab
