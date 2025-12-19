@@ -40,6 +40,7 @@ de identificar comportamientos distractores y potencialmente peligrosos del cond
 - CNN secuencial (4 bloques Conv + MaxPooling)
 - CNN + Depth Map
 - YOLOv8 (Nano / Large)
+- CNN + KNN / RF
 - Estudio de ablación sobre número de capas y filtros
 
 ---
