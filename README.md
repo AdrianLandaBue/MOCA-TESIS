@@ -1,10 +1,10 @@
 En esta tesis se presenta el desarrollo e implementación de un sistema basado en aprendizaje profundo para el análisis y clasificación de actividades de conducción a partir de imágenes, con el objetivo de identificar comportamientos potencialmente peligrosos del conductor. La propuesta se apoya en técnicas de visión artificial y en arquitecturas de redes neuronales convolucionales, diseñadas para extraer características visuales relevantes que permitan modelar patrones de comportamiento durante la conducción.
 
 El trabajo considera tanto bases de datos públicas como un conjunto de imágenes recopiladas en escenarios reales, lo que permite evaluar el desempeño del modelo en condiciones controladas y en entornos prácticos. Adicionalmente, se exploran estrategias de preprocesamiento y representación de la información visual, orientadas a simplificar el flujo de datos y mejorar la capacidad discriminativa del modelo.# MOCA-TESIS
- # Identificación de actividades de conducción mediante visión artificial
+ # Identificación de Comportamientos de Conducción Peligrosos en Servicios de Transporte Mediante aprendizaje profundo.
 
 Este repositorio contiene el código y los recursos utilizados para el desarrollo de la tesis
-**"Identificación de patrones de conducción peligrosos mediante visión artificial y aprendizaje profundo"**,
+**"Identificación de Comportamientos de Conducción Peligrosos en Servicios de Transporte Mediante aprendizaje profundo."**,
 realizada en el marco del programa de Maestría en Optimización y Cómputo Aplicado (MOCA).
 
 ---
