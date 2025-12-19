@@ -12,7 +12,7 @@ realizada en el marco del programa de Maestría en Optimización y Cómputo Apli
 ## 📄 Artículo / Documento de tesis
 
 - 📘 **Tesis completa (PDF)**: [Descargar](docs/Tesis_Adrian_Landa_Buendia.pdf)
-- 📝 **Articulo publicado**: [Ver PDF]([docs/Resumen_Extendido.pdf](https://link.springer.com/book/10.1007/978-3-031-97907-1))
+- 📝 **Articulo publicado**: [Ver PDF](https://link.springer.com/book/10.1007/978-3-031-97907-1)
 
 ---
 
