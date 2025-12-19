@@ -2,7 +2,7 @@ Este repositorio contiene el código y los recursos utilizados para el desarroll
 **"Identificación de Comportamientos de Conducción Peligrosos en Servicios de Transporte Mediante aprendizaje profundo."**,
 realizada en el marco del programa de Maestría en Optimización y Cómputo Aplicado (MOCA).
 
-En esta tesis se presenta el desarrollo e implementación de un sistema basado en aprendizaje profundo para el análisis y clasificación de actividades de conducción a partir de imágenes, con el objetivo de identificar comportamientos potencialmente peligrosos del conductor. La propuesta se apoya en técnicas de visión artificial y en arquitecturas de redes neuronales convolucionales, diseñadas para extraer características visuales relevantes que permitan modelar patrones de comportamiento durante la conducción. 
+Asi mismo, la tesis presenta el desarrollo e implementación de un sistema basado en aprendizaje profundo para el análisis y clasificación de actividades de conducción a partir de imágenes, con el objetivo de identificar comportamientos potencialmente peligrosos del conductor. La propuesta se apoya en técnicas de visión artificial y en arquitecturas de redes neuronales convolucionales, diseñadas para extraer características visuales relevantes que permitan modelar patrones de comportamiento durante la conducción. 
 <img width="5374" height="1280" alt="Input 150 x 150" src="https://github.com/user-attachments/assets/b23c1e0a-936b-48cc-a571-79d0c2a989bf" />
 
 
