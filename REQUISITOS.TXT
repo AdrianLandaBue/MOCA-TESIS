@@ -39,4 +39,4 @@ tensorboard
 # =========================
 jupyter
 notebook
-Google coolab
+Google Colab
